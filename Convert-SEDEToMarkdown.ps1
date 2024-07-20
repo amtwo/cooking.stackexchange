@@ -1,6 +1,6 @@
 # Define the input and output file paths
 $csvFilePath = "QueryResults.csv"
-$outputDirectory = "Output"
+$outputDirectory = "docs"
 
 # Create the output directory if it doesn't exist
 if (-not (Test-Path -Path $outputDirectory)) {
