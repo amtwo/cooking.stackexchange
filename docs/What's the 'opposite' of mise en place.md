@@ -1,8 +1,8 @@
-﻿# What's the 'opposite' of mise en place?
+# What's the 'opposite' of mise en place?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115439)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115439)._
 
-_By: [Tetsujin](https://cooking.stackexchange.com/u/42066)]
+_By: [Tetsujin](https://dba.stackexchange.com/u/42066)]_
 <br><hr>
 ### Q: What's the 'opposite' of mise en place?
 <p><a href="https://en.wikipedia.org/wiki/Mise_en_place" rel="nofollow noreferrer">Mise en place</a> definition for those unaware.</p>

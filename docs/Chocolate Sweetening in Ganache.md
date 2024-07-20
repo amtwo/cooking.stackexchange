@@ -1,8 +1,8 @@
-﻿# Chocolate Sweetening in Ganache
+# Chocolate Sweetening in Ganache
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104566)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/104566)._
 
-_By: [sarah](https://cooking.stackexchange.com/u/80391)]
+_By: [sarah](https://dba.stackexchange.com/u/80391)]_
 <br><hr>
 ### Q: Chocolate Sweetening in Ganache
 <p>I need 1 more ounce of 60% bakers chocolate, but i only have unsweetened. How much powdered sugar should I add if I add 1 ounce of the unsweetened?

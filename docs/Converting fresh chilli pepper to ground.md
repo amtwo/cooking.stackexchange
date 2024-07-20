@@ -1,8 +1,8 @@
-﻿# Converting fresh chilli pepper to ground?
+# Converting fresh chilli pepper to ground?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103509)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103509)._
 
-_By: [James Wilson](https://cooking.stackexchange.com/u/7945)]
+_By: [James Wilson](https://dba.stackexchange.com/u/7945)]_
 <br><hr>
 ### Q: Converting fresh chilli pepper to ground?
 <p>If I normally use a fresh chilli pepper but decide to use the ground version, how do I convert for measuring the amount of ground? For example, 1 fresh pepper = 1 heaped teaspoon ground pepper.</p>

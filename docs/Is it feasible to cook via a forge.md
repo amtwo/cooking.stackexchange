@@ -1,8 +1,8 @@
-﻿# Is it feasible to cook via a forge?
+# Is it feasible to cook via a forge?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/116535)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/116535)._
 
-_By: [user94836](https://cooking.stackexchange.com/u/94836)]
+_By: [user94836](https://dba.stackexchange.com/u/94836)]_
 <br><hr>
 ### Q: Is it feasible to cook via a forge?
 <p>I was playing the Sims Medieval the other day, and at one point, the blacksmith proves s/he's a capable cook by... taking a piece of meat, firing up the forge, and hammering the thing into a steak.</p>

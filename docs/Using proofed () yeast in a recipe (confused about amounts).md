@@ -1,8 +1,8 @@
-﻿# Using proofed (?) yeast in a recipe (confused about amounts)
+# Using proofed (?) yeast in a recipe (confused about amounts)
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110364)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/110364)._
 
-_By: [Simone](https://cooking.stackexchange.com/u/29174)]
+_By: [Simone](https://dba.stackexchange.com/u/29174)]_
 <br><hr>
 ### Q: Using proofed (?) yeast in a recipe (confused about amounts)
 <p>I'm following a recipe that begins with &quot;process 3.25 cups flour and 1/8 tsp instant or rapid-rise yeast in food processor until combined, then slowly add 1.25 cup ice water&quot;</p>

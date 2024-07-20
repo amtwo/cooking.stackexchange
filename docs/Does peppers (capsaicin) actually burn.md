@@ -1,8 +1,8 @@
-﻿# Does peppers (capsaicin) actually burn?
+# Does peppers (capsaicin) actually burn?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119290)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119290)._
 
-_By: [Roo Tenshi](https://cooking.stackexchange.com/u/94639)]
+_By: [Roo Tenshi](https://dba.stackexchange.com/u/94639)]_
 <br><hr>
 ### Q: Does peppers (capsaicin) actually burn?
 <p>I know that capsaicin just triggers a receptor <code>TRPV1</code> that senses heat. Therefore makes you feel pain.</p>

@@ -1,8 +1,8 @@
-﻿# What is this hinged tool with a box full of wicked grooves and teeth?
+# What is this hinged tool with a box full of wicked grooves and teeth?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112302)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/112302)._
 
-_By: [Xander Henderson](https://cooking.stackexchange.com/u/89259)]
+_By: [Xander Henderson](https://dba.stackexchange.com/u/89259)]_
 <br><hr>
 ### Q: What is this hinged tool with a box full of wicked grooves and teeth?
 <p>Recently, while cleaning out my mother's kitchen, we came across this tool:</p>

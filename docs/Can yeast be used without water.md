@@ -1,3 +1,3 @@
-﻿# Can yeast be used without water
+# Can yeast be used without water
 
 

@@ -1,8 +1,8 @@
-﻿# What is 91/100 CV when referring to olives?
+# What is 91/100 CV when referring to olives?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115881)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115881)._
 
-_By: [hb20007](https://cooking.stackexchange.com/u/55728)]
+_By: [hb20007](https://dba.stackexchange.com/u/55728)]_
 <br><hr>
 ### Q: What is 91/100 CV when referring to olives?
 <p>I often see numbers like 91/100 CV when buying olives.</p>

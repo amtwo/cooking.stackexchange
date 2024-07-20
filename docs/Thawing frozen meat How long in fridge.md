@@ -1,8 +1,8 @@
-﻿# Thawing frozen meat: How long in fridge?
+# Thawing frozen meat: How long in fridge?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117292)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117292)._
 
-_By: [Mercfh](https://cooking.stackexchange.com/u/36705)]
+_By: [Mercfh](https://dba.stackexchange.com/u/36705)]_
 <br><hr>
 ### Q: Thawing frozen meat: How long in fridge?
 <p>So I had a 4-5 lb chunk of chuck roast sitting in the freezer for a few weeks, it was obviously frozen solid at that point. I wanted to eventually make some roast in the slow cooker but I figured I would need to thaw it in the fridge of course.</p>

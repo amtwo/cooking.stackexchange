@@ -1,8 +1,8 @@
-﻿# What does this function symbol on my Cylinda convection oven mean?
+# What does this function symbol on my Cylinda convection oven mean?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119862)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119862)._
 
-_By: [mossymountain](https://cooking.stackexchange.com/u/97921)]
+_By: [mossymountain](https://dba.stackexchange.com/u/97921)]_
 <br><hr>
 ### Q: What does this function symbol on my Cylinda convection oven mean?
 <p>On the right hand knob, there are eight options including <code>0</code> (off):</p>

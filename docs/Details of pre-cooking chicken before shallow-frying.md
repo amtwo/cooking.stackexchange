@@ -1,8 +1,8 @@
-﻿# Details of pre-cooking chicken before shallow-frying?
+# Details of pre-cooking chicken before shallow-frying?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112462)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/112462)._
 
-_By: [Nav](https://cooking.stackexchange.com/u/7812)]
+_By: [Nav](https://dba.stackexchange.com/u/7812)]_
 <br><hr>
 ### Q: Details of pre-cooking chicken before shallow-frying?
 <p>Having made mistakes earlier which resulted in undercooked or over-fried chicken, I've been looking for details of how to correctly steam or pressure-cook chicken before shallow frying it.<br />

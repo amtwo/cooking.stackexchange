@@ -1,8 +1,8 @@
-﻿# Today's equivalent of a cake of yeast
+# Today's equivalent of a cake of yeast
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/109732)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/109732)._
 
-_By: [TinaMarie](https://cooking.stackexchange.com/u/85694)]
+_By: [TinaMarie](https://dba.stackexchange.com/u/85694)]_
 <br><hr>
 ### Q: Today's equivalent of a cake of yeast
 <p>I came across one of my mother's cookbooks from 1954.  A lot of the baked goods call for &quot;1 cake of yeast&quot;.  What would be the equivalent of this in today's supermarket?</p>

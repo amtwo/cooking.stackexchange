@@ -1,8 +1,8 @@
-﻿# Saucepan Accessory
+# Saucepan Accessory
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112280)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/112280)._
 
-_By: [Avrohom Yitzchok](https://cooking.stackexchange.com/u/14991)]
+_By: [Avrohom Yitzchok](https://dba.stackexchange.com/u/14991)]_
 <br><hr>
 ### Q: Saucepan Accessory
 <p>When we cook our cholent (<a href="https://cooking.stackexchange.com/questions/66800">overnight stew</a>), it sometimes dries out on top.</p>

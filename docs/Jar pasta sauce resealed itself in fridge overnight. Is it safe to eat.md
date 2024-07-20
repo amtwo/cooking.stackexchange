@@ -1,8 +1,8 @@
-﻿# Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat?
+# Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/102930)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/102930)._
 
-_By: [HangryLady](https://cooking.stackexchange.com/u/79044)]
+_By: [HangryLady](https://dba.stackexchange.com/u/79044)]_
 <br><hr>
 ### Q: Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat?
 <p>I opened a jar of heavy cream pasta sauce (pumpkin, tomato, cream, etc), ate some and stored the rest in the fridge. The next day it seamed to have sealed itself. The button stayed down when I happened to press it. When I opened it the second time it popped loud. Like new.</p>

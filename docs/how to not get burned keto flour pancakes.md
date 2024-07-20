@@ -1,8 +1,8 @@
-﻿# how to not get burned keto flour pancakes?
+# how to not get burned keto flour pancakes?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/114757)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/114757)._
 
-_By: [Isabella Leonarda](https://cooking.stackexchange.com/u/91793)]
+_By: [Isabella Leonarda](https://dba.stackexchange.com/u/91793)]_
 <br><hr>
 ### Q: how to not get burned keto flour pancakes?
 <p>I make keto pancakes out of a bought keto flour pancake mix (almond flour and cassava and coconut flours are main components). I mix these with either water or whole milk, making not too thick mixture, and cook on a cast iron pan with a pad of butter placed on heated pan first.</p>

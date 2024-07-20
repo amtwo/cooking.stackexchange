@@ -1,8 +1,8 @@
-﻿# Are chilies a common ingredient in Italian cooking?
+# Are chilies a common ingredient in Italian cooking?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104193)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/104193)._
 
-_By: [Jim](https://cooking.stackexchange.com/u/80074)]
+_By: [Jim](https://dba.stackexchange.com/u/80074)]_
 <br><hr>
 ### Q: Are chilies a common ingredient in Italian cooking?
 <p>I just read this article in CNN "Eating chilies cuts risk of death from heart attack and stroke, study says" and when I read this line:</p>

@@ -1,8 +1,8 @@
-﻿# Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle?
+# Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115314)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115314)._
 
-_By: [Ray Butterworth](https://cooking.stackexchange.com/u/78873)]
+_By: [Ray Butterworth](https://dba.stackexchange.com/u/78873)]_
 <br><hr>
 ### Q: Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle?
 <p>Pyrex baking dishes all seem to be 9-inch by 13-inch, and many sites recommend that as the ideal size for lasagne.</p>

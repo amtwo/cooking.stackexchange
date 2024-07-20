@@ -1,8 +1,8 @@
-﻿# Is the appetizer of a three-course meal always a salad?
+# Is the appetizer of a three-course meal always a salad?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/107720)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/107720)._
 
-_By: [Piete3r](https://cooking.stackexchange.com/u/83638)]
+_By: [Piete3r](https://dba.stackexchange.com/u/83638)]_
 <br><hr>
 ### Q: Is the appetizer of a three-course meal always a salad?
 <p>A <a href="https://www.collinsdictionary.com/us/dictionary/english/three-course-meal" rel="nofollow noreferrer">dictionary</a> says</p>

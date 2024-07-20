@@ -1,8 +1,8 @@
-﻿# Can I verify that a product using the USDA emblem is valid?
+# Can I verify that a product using the USDA emblem is valid?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122370)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/122370)._
 
-_By: [Bobby Bennett](https://cooking.stackexchange.com/u/101715)]
+_By: [Bobby Bennett](https://dba.stackexchange.com/u/101715)]_
 <br><hr>
 ### Q: Can I verify that a product using the USDA emblem is valid?
 <p>How do I verify that a product advertising the USDA organic label is valid? How do I know if they are claiming the product is USDA organic certified by using the label when it is not organic? There should be a USDA organic database that I can enter the company and product who is using the emblem to verify that it is valid. For example, Mario Pitted Organic Kalamata Olives uses the USDA organic emblem. How do I know if they are truly certified?</p>

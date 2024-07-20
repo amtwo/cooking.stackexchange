@@ -1,8 +1,8 @@
-﻿# Is it safe to use lye-based oven cleaner on a stainless steel pan?
+# Is it safe to use lye-based oven cleaner on a stainless steel pan?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112202)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/112202)._
 
-_By: [jmoore3274](https://cooking.stackexchange.com/u/89168)]
+_By: [jmoore3274](https://dba.stackexchange.com/u/89168)]_
 <br><hr>
 ### Q: Is it safe to use lye-based oven cleaner on a stainless steel pan?
 <p>I'm currently in the middle of seasoning some new pans that I received from made in. I accidently messed up one of my pans by not wiping off the excess seasoning wax and now the pan has dots all over it.</p>

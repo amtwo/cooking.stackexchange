@@ -1,8 +1,8 @@
-﻿# Pulled pork slightly too tart and watery
+# Pulled pork slightly too tart and watery
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119546)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119546)._
 
-_By: [Italian Philosophers 4 Monica](https://cooking.stackexchange.com/u/64096)]
+_By: [Italian Philosophers 4 Monica](https://dba.stackexchange.com/u/64096)]_
 <br><hr>
 ### Q: Pulled pork slightly too tart and watery
 <p>I made some pulled pork over the holidays in an Instantpot which came out fairly well.</p>

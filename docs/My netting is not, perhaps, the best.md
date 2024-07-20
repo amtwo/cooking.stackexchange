@@ -1,8 +1,8 @@
-﻿# My netting is not, perhaps, the best
+# My netting is not, perhaps, the best
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/111067)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/111067)._
 
-_By: [Fattie](https://cooking.stackexchange.com/u/38062)]
+_By: [Fattie](https://dba.stackexchange.com/u/38062)]_
 <br><hr>
 ### Q: My netting is not, perhaps, the best
 <p><a href="https://i.sstatic.net/IZJXV.jpg" rel="noreferrer"><img src="https://i.sstatic.net/IZJXV.jpg" alt="enter image description here" /></a></p>

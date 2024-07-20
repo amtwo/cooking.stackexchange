@@ -1,8 +1,8 @@
-﻿# Are "shelled nuts" with or without their shells?
+# Are "shelled nuts" with or without their shells?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104998)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/104998)._
 
-_By: [Nathan Wailes](https://cooking.stackexchange.com/u/68578)]
+_By: [Nathan Wailes](https://dba.stackexchange.com/u/68578)]_
 <br><hr>
 ### Q: Are "shelled nuts" with or without their shells?
 <p>I'm using MyFitnessPal to log what I'm eating, and I can't figure out whether 'shelled pistachios' are pistachios with or without their shells.</p>

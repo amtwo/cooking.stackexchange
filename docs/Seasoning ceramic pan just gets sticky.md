@@ -1,8 +1,8 @@
-﻿# Seasoning ceramic pan just gets sticky
+# Seasoning ceramic pan just gets sticky
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/121609)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/121609)._
 
-_By: [kporangehat](https://cooking.stackexchange.com/u/100796)]
+_By: [kporangehat](https://dba.stackexchange.com/u/100796)]_
 <br><hr>
 ### Q: Seasoning ceramic pan just gets sticky
 <p>I have a set of Caraway ceramic pans which started out fantastic. One of them has completely lost its nonstick coating now and I’m trying to season it to regain some nonstick back.</p>

@@ -1,8 +1,8 @@
-﻿# What are the effects of resting (or not) carnitas meat after the initial braise
+# What are the effects of resting (or not) carnitas meat after the initial braise
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120092)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/120092)._
 
-_By: [nate](https://cooking.stackexchange.com/u/73295)]
+_By: [nate](https://dba.stackexchange.com/u/73295)]_
 <br><hr>
 ### Q: What are the effects of resting (or not) carnitas meat after the initial braise
 <p>I just read a pork carnitas recipe and part of the workflow/steps went like this:</p>

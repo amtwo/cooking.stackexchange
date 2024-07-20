@@ -1,8 +1,8 @@
-﻿# Which emulsifer to use for low viscosity emulsions of 10-20% fat and water
+# Which emulsifer to use for low viscosity emulsions of 10-20% fat and water
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115655)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115655)._
 
-_By: [Jake](https://cooking.stackexchange.com/u/65637)]
+_By: [Jake](https://dba.stackexchange.com/u/65637)]_
 <br><hr>
 ### Q: Which emulsifer to use for low viscosity emulsions of 10-20% fat and water
 <p>I'd like to create low viscosity emulsions of between 10% to 20% fat and ~80% water, the hope was to have a viscosity somewhere around that of milk or cream. Slightly thicker could be ok as well but my goal is for it to be as thin and fluid as possible. I'd like the emulsion to be quite stable. I'll also add that this is for a dessert. The typical culinary emulsifiers we all have around like eggs seem to me to not produce particularly stable emulsions at low viscosity (basing my conclusions here on salad dressings). I have Methyl cellulose (which is my current best guess) and a number of other food additives from various projects but I've typically used those as part of specific recipes; I don't know how to use those as part of a creative project like this.</p>

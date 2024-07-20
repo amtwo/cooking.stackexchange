@@ -1,8 +1,8 @@
-﻿# Why does salt and seasoning stick better to hot foods?
+# Why does salt and seasoning stick better to hot foods?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/114972)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/114972)._
 
-_By: [Subhasish Mukherjee](https://cooking.stackexchange.com/u/87242)]
+_By: [Subhasish Mukherjee](https://dba.stackexchange.com/u/87242)]_
 <br><hr>
 ### Q: Why does salt and seasoning stick better to hot foods?
 <p>In every recipe I see for fries, popcorn, churros, and other foods where I normally want to add the salt/sugar/seasoning at the end, everybody says to make sure to do it while the food is still hot so the seasoning sticks. Why is this? Is this just something people say, or does it really matter a lot?</p>

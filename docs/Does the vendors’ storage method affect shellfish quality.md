@@ -1,3 +1,3 @@
-﻿# Does the vendors’ storage method affect shellfish quality?
+# Does the vendors’ storage method affect shellfish quality?
 
 

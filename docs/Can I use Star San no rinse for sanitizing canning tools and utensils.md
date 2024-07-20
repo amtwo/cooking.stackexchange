@@ -1,8 +1,8 @@
-﻿# Can I use Star San "no rinse" for sanitizing canning tools and utensils?
+# Can I use Star San "no rinse" for sanitizing canning tools and utensils?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110031)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/110031)._
 
-_By: [hotmeatballsoup](https://cooking.stackexchange.com/u/73447)]
+_By: [hotmeatballsoup](https://dba.stackexchange.com/u/73447)]_
 <br><hr>
 ### Q: Can I use Star San "no rinse" for sanitizing canning tools and utensils?
 <p>I've been brewing beer (totally amateur) for a few years as a hobby. I now want to get into canning my own garden-grown veggies.</p>

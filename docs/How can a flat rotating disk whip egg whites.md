@@ -1,8 +1,8 @@
-﻿# How can a flat rotating disk whip egg whites?
+# How can a flat rotating disk whip egg whites?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117738)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117738)._
 
-_By: [JJJ](https://cooking.stackexchange.com/u/61703)]
+_By: [JJJ](https://dba.stackexchange.com/u/61703)]_
 <br><hr>
 ### Q: How can a flat rotating disk whip egg whites?
 <p>The <a href="https://www.bamix.com/shop/eu_en/beater.html" rel="noreferrer">Bamix 'beater' attachment</a> is just a flat disk which rotates on an immersion blender. When it rotates the disk stays mostly in place, it doesn't displace the liquid in a way that moving a traditional whisk would.</p>

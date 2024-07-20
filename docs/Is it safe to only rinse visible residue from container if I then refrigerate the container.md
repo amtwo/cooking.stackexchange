@@ -1,8 +1,8 @@
-﻿# Is it safe to only rinse visible residue from container if I then refrigerate the container?
+# Is it safe to only rinse visible residue from container if I then refrigerate the container?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115130)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115130)._
 
-_By: [MrSimplemaker](https://cooking.stackexchange.com/u/93266)]
+_By: [MrSimplemaker](https://dba.stackexchange.com/u/93266)]_
 <br><hr>
 ### Q: Is it safe to only rinse visible residue from container if I then refrigerate the container?
 <p>I like to eat off silicone containers. I've noticed that if I rinse them right away after eating, there will be basically no visible residue left on the surface.</p>

@@ -1,8 +1,8 @@
-﻿# How much potato to add to reduce saltiness
+# How much potato to add to reduce saltiness
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119575)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119575)._
 
-_By: [Nav](https://cooking.stackexchange.com/u/7812)]
+_By: [Nav](https://dba.stackexchange.com/u/7812)]_
 <br><hr>
 ### Q: How much potato to add to reduce saltiness
 <p>I've heard that adding potato to an overly salty dish can reduce the saltiness.</p>

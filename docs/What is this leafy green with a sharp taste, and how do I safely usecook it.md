@@ -1,8 +1,8 @@
-﻿# What is this leafy green with a sharp taste, and how do I safely use/cook it?
+# What is this leafy green with a sharp taste, and how do I safely use/cook it?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110875)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/110875)._
 
-_By: [nanofarad](https://cooking.stackexchange.com/u/10778)]
+_By: [nanofarad](https://dba.stackexchange.com/u/10778)]_
 <br><hr>
 ### Q: What is this leafy green with a sharp taste, and how do I safely use/cook it?
 <p>I recently purchased this vegetable at a farmers' market without getting its name. It was marketed as organic/fresh/local in the Northeastern United States in late September.</p>

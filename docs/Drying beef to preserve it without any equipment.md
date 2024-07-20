@@ -1,8 +1,8 @@
-﻿# Drying beef to preserve it without any equipment
+# Drying beef to preserve it without any equipment
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/108679)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/108679)._
 
-_By: [user13341805](https://cooking.stackexchange.com/u/84710)]
+_By: [user13341805](https://dba.stackexchange.com/u/84710)]_
 <br><hr>
 ### Q: Drying beef to preserve it without any equipment
 <p>I have high quality beef muscle meat, beef liver and beef heart. All completely grass fed from healthy animals with clean practices thus I am not that worried about botulism ("Botulism outbreaks occur when animals eat improperly stored or spoiled silage, decaying vegetation, poultry manure, or feed and water contaminated with bird or rodent carcasses.").</p>

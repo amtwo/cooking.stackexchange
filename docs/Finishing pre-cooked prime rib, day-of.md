@@ -1,8 +1,8 @@
-﻿# Finishing pre-cooked prime rib, day-of?
+# Finishing pre-cooked prime rib, day-of?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104119)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/104119)._
 
-_By: [Aptos](https://cooking.stackexchange.com/u/80022)]
+_By: [Aptos](https://dba.stackexchange.com/u/80022)]_
 <br><hr>
 ### Q: Finishing pre-cooked prime rib, day-of?
 <p>I’m ordering a 6lb. bone-out prime rib roast from a local butcher. I want to have them season and (mostly) cook it for me in their rotisserie on Christmas Eve (pickup at 4pm) so I can just finish it quickly in my oven Christmas Day (12pm).</p>

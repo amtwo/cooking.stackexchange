@@ -1,8 +1,8 @@
-﻿# Why does my deep fryer say not to use peanut oil?
+# Why does my deep fryer say not to use peanut oil?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119407)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119407)._
 
-_By: [GdD](https://cooking.stackexchange.com/u/19707)]
+_By: [GdD](https://dba.stackexchange.com/u/19707)]_
 <br><hr>
 ### Q: Why does my deep fryer say not to use peanut oil?
 <p>I got a Tefal deep fryer for Christmas (yay!) which has an automatic filtering system so you can re-use oil multiple times. When reading through the manual it says 'Do not use groundnut (i.e. peanut) oil', without any explanation as to why. My understanding is that refined peanut oil has a high smoke point and is a widely used choice for deep frying, but I suspect they have a good reason for this very prominent recommendation.</p>

@@ -1,8 +1,8 @@
-﻿# Can I bake a finished Ginger Bread House
+# Can I bake a finished Ginger Bread House
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103972)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103972)._
 
-_By: [SIMEL](https://cooking.stackexchange.com/u/58063)]
+_By: [SIMEL](https://dba.stackexchange.com/u/58063)]_
 <br><hr>
 ### Q: Can I bake a finished Ginger Bread House
 <p>I made a gingerbread house using store-bought gingerbread cookies (from Ikea, if it matters) and using just royal icing made from whipped egg whites, powdered sugar and vanilla paste. Because I couldn't find meringue paste being sold anywhere around me, I had to use the unpasteurized egg whites.</p>

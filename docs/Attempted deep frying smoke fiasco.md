@@ -1,8 +1,8 @@
-﻿# Attempted deep frying smoke fiasco
+# Attempted deep frying smoke fiasco
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103367)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103367)._
 
-_By: [Charles Dake](https://cooking.stackexchange.com/u/79411)]
+_By: [Charles Dake](https://dba.stackexchange.com/u/79411)]_
 <br><hr>
 ### Q: Attempted deep frying smoke fiasco
 <p>I recently tried deep frying some chicken and it went horribly wrong. The oil started to smoke so much that I had to step outside because it was so thick. Even after I brought the Dutch oven I was using outside it smoked for a long while after. My question is why was it smoking so much.</p>

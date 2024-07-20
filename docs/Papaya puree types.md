@@ -1,8 +1,8 @@
-﻿# Papaya puree types
+# Papaya puree types
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112702)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/112702)._
 
-_By: [Drisheen Colcannon](https://cooking.stackexchange.com/u/26201)]
+_By: [Drisheen Colcannon](https://dba.stackexchange.com/u/26201)]_
 <br><hr>
 ### Q: Papaya puree types
 <p>I have had a problem trying to located good papaya puree. I used to buy it from this company called Dynamic Health, but they changed the type of puree they sell. The two photos below show before and after:</p>

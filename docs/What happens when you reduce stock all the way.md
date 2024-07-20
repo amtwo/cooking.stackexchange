@@ -1,8 +1,8 @@
-﻿# What happens when you reduce stock all the way?
+# What happens when you reduce stock all the way?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/114125)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/114125)._
 
-_By: [Bertrand Einstein IV](https://cooking.stackexchange.com/u/90916)]
+_By: [Bertrand Einstein IV](https://dba.stackexchange.com/u/90916)]_
 <br><hr>
 ### Q: What happens when you reduce stock all the way?
 <p>If you have fully filtered stock or broth, and you boil it until all of the liquid evaporates; what would you be left with. If you boiled only until a bit before that point would you have super compact flavor?</p>

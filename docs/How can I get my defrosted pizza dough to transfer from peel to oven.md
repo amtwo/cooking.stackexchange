@@ -1,8 +1,8 @@
-﻿# How can I get my defrosted pizza dough to transfer from peel to oven?
+# How can I get my defrosted pizza dough to transfer from peel to oven?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/111090)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/111090)._
 
-_By: [laurall](https://cooking.stackexchange.com/u/88035)]
+_By: [laurall](https://dba.stackexchange.com/u/88035)]_
 <br><hr>
 ### Q: How can I get my defrosted pizza dough to transfer from peel to oven?
 <p>My defrosted dough hard to handle once I put stuff on it. I make a horrible mess getting onto the pizza stone. I wind up with at least part of the pizza dough folded over on itself. I never used to have quite so much trouble. I was using a wooden pizza peel; I just tried a metal one for the first time and still have the same problems.

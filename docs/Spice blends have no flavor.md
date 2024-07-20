@@ -1,8 +1,8 @@
-﻿# Spice blends have no flavor?
+# Spice blends have no flavor?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119580)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119580)._
 
-_By: [poundifdef](https://cooking.stackexchange.com/u/66371)]
+_By: [poundifdef](https://dba.stackexchange.com/u/66371)]_
 <br><hr>
 ### Q: Spice blends have no flavor?
 <p>I recently purchased a local taco spice blend (basically: chili pepper, paprika, garlic, cumin and oregano) but it tastes bland when I cook with it. In fact, I often find this when I try to use spice rubs (even mixing things from my spice cabinet) on meat.</p>

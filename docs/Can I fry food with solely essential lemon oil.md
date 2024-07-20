@@ -1,8 +1,8 @@
-﻿# Can I fry food with solely essential lemon oil?
+# Can I fry food with solely essential lemon oil?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119493)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119493)._
 
-_By: [user3210986](https://cooking.stackexchange.com/u/97320)]
+_By: [user3210986](https://dba.stackexchange.com/u/97320)]_
 <br><hr>
 ### Q: Can I fry food with solely essential lemon oil?
 <p>Is it safe to consume lemon oil in the quantities that would be found in fried food? Could I fry corn tortillas, for instance? Would it fry?</p>

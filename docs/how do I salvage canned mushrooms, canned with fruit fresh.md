@@ -1,8 +1,8 @@
-﻿# how do I salvage canned mushrooms, canned with fruit fresh
+# how do I salvage canned mushrooms, canned with fruit fresh
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117763)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117763)._
 
-_By: [Karen Douglass](https://cooking.stackexchange.com/u/96348)]
+_By: [Karen Douglass](https://dba.stackexchange.com/u/96348)]_
 <br><hr>
 ### Q: how do I salvage canned mushrooms, canned with fruit fresh
 <p>I canned mushrooms with fruit fresh. They have a very acidic taste - tart not sweet.  Can I fix them or make a soup from them to salvage the batch?</p>

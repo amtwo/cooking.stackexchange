@@ -1,8 +1,8 @@
-﻿# What done-ness is safe, but still juicy, to order wild boar cooked to?
+# What done-ness is safe, but still juicy, to order wild boar cooked to?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117517)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117517)._
 
-_By: [Jake](https://cooking.stackexchange.com/u/50833)]
+_By: [Jake](https://dba.stackexchange.com/u/50833)]_
 <br><hr>
 ### Q: What done-ness is safe, but still juicy, to order wild boar cooked to?
 <p>I recently went to a restaurant here that claims to offer local fair. It was in a super touristy area so I have my doubts, but it plays the part well.</p>

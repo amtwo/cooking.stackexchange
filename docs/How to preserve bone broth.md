@@ -1,8 +1,8 @@
-﻿# How to preserve bone broth?
+# How to preserve bone broth?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122393)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/122393)._
 
-_By: [FUZxxl](https://cooking.stackexchange.com/u/17866)]
+_By: [FUZxxl](https://dba.stackexchange.com/u/17866)]_
 <br><hr>
 ### Q: How to preserve bone broth?
 <p>I will soon receive a few kg of fresh boar bones.  From these, I want to make bone broth and preserve them in Weck jars, as I don't have a freezer.</p>

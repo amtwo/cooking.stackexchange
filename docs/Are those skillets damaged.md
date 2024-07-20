@@ -1,8 +1,8 @@
-﻿# Are those skillets damaged?
+# Are those skillets damaged?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/109822)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/109822)._
 
-_By: [Sammy](https://cooking.stackexchange.com/u/84957)]
+_By: [Sammy](https://dba.stackexchange.com/u/84957)]_
 <br><hr>
 ### Q: Are those skillets damaged?
 <p>I'm posting links to photos on Dropbox of 3 de Buyer skillets I own. They have been placed into the dishwasher over and over again against my advice unfortunately.</p>

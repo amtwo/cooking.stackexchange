@@ -1,8 +1,8 @@
-﻿# Is this meat that I was told was brisket in Barcelona the same as U.S. brisket?
+# Is this meat that I was told was brisket in Barcelona the same as U.S. brisket?
 
-_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122254)._
+_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/122254)._
 
-_By: [Albert](https://cooking.stackexchange.com/u/75381)]
+_By: [Albert](https://dba.stackexchange.com/u/75381)]_
 <br><hr>
 ### Q: Is this meat that I was told was brisket in Barcelona the same as U.S. brisket?
 <p>I was born and currently live in Barcelona. Here in Catalonia, or in Spain, beef is not butchered in the American style, so I can't get the cuts that are used for American BBQ.</p>
