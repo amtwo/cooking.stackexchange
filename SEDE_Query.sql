@@ -1,7 +1,7 @@
 --DECLARE @MyUserId int = ##UserId:int?45339##;
 DECLARE @MyUserId int = 45339;
-DECLARE @SiteUrl nvarchar(50) = 'https://cooking.stackexchange.com';
 
+DECLARE @SiteUrl nvarchar(50) = 'https://cooking.stackexchange.com';
 DECLARE @Crlf nchar(2) = CHAR(13) + CHAR(10);
 
 WITH PostInfo AS(
@@ -26,8 +26,10 @@ WITH PostInfo AS(
     )
 SELECT p.PostTitle,
        PostBody  = N'_This question originally asked on [The Stack Exchange Network](' + @SiteUrl + N'/q/' + p.QuestionCharId + ')._' + @Crlf + @Crlf
-                 + N'_By: [' + p.QuestionAsker + N'](' + @SiteUrl + N'/u/' + p.AskerCharId + ')]' + @Crlf
-                 + N'<br><hr>' + @Crlf
+                 + N'_By: [' + p.QuestionAsker + N'](' + @SiteUrl + N'/u/' + p.AskerCharId + ')_' + @Crlf + @Crlf
+                 + N'All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)' + @Crlf
+                 + N'<br>' + @Crlf
+                 + N'--------------------------------------------' + @Crlf
                  + N'### Q: ' + p.PostTitle + @Crlf
                  + p.QuestionText + @crlf
                  + N'<br><br>' + @Crlf
