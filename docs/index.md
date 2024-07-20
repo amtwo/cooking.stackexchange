@@ -1,96 +1,96 @@
-<html><body><h1>Andy's cooking.stackexchange.com contributions</h1><ul>
-<li><a href='Acrid taste on King Crab Legs.md'>Acrid taste on King Crab Legs.md</a></li>
-<li><a href='Are chilies a common ingredient in Italian cooking.md'>Are chilies a common ingredient in Italian cooking.md</a></li>
-<li><a href='Are shelled nuts with or without their shells.md'>Are shelled nuts with or without their shells.md</a></li>
-<li><a href='Are those skillets damaged.md'>Are those skillets damaged.md</a></li>
-<li><a href='Attempted deep frying smoke fiasco.md'>Attempted deep frying smoke fiasco.md</a></li>
-<li><a href='Bell Pepper cooking in the microwave.md'>Bell Pepper cooking in the microwave.md</a></li>
-<li><a href='Can beans be overcooked.md'>Can beans be overcooked.md</a></li>
-<li><a href='Can I bake a finished Ginger Bread House.md'>Can I bake a finished Ginger Bread House.md</a></li>
-<li><a href='Can I fry food with solely essential lemon oil.md'>Can I fry food with solely essential lemon oil.md</a></li>
-<li><a href='Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables.md'>Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables.md</a></li>
-<li><a href='Can I use Star San no rinse for sanitizing canning tools and utensils.md'>Can I use Star San no rinse for sanitizing canning tools and utensils.md</a></li>
-<li><a href='Can I verify that a product using the USDA emblem is valid.md'>Can I verify that a product using the USDA emblem is valid.md</a></li>
-<li><a href='Can this Kitchen Art Non Fry Pan, made in South Korea, be seasoned.md'>Can this Kitchen Art Non Fry Pan, made in South Korea, be seasoned.md</a></li>
-<li><a href='Can yeast be used without water.md'>Can yeast be used without water.md</a></li>
-<li><a href='Chocolate Sweetening in Ganache.md'>Chocolate Sweetening in Ganache.md</a></li>
-<li><a href='Chopping shallots super fine.md'>Chopping shallots super fine.md</a></li>
-<li><a href='Considerations for prepping breaded chicken for freezing.md'>Considerations for prepping breaded chicken for freezing.md</a></li>
-<li><a href='Converting fresh chilli pepper to ground.md'>Converting fresh chilli pepper to ground.md</a></li>
-<li><a href='Cooking octopus simple boil or broth.md'>Cooking octopus simple boil or broth.md</a></li>
-<li><a href='Cooking pasta in water temperature range.md'>Cooking pasta in water temperature range.md</a></li>
-<li><a href='Damage to pan bottom.md'>Damage to pan bottom.md</a></li>
-<li><a href='Details of pre-cooking chicken before shallow-frying.md'>Details of pre-cooking chicken before shallow-frying.md</a></li>
-<li><a href='Does peppers (capsaicin) actually burn.md'>Does peppers (capsaicin) actually burn.md</a></li>
-<li><a href='Does the vendors’ storage method affect shellfish quality.md'>Does the vendors’ storage method affect shellfish quality.md</a></li>
-<li><a href='Drying beef to preserve it without any equipment.md'>Drying beef to preserve it without any equipment.md</a></li>
-<li><a href='Finishing pre-cooked prime rib, day-of.md'>Finishing pre-cooked prime rib, day-of.md</a></li>
-<li><a href='Fix acorn squash that I baked too long, now too dry.md'>Fix acorn squash that I baked too long, now too dry.md</a></li>
-<li><a href='How can a flat rotating disk whip egg whites.md'>How can a flat rotating disk whip egg whites.md</a></li>
-<li><a href='How can I clean utensils (e.g., knives) used to cut longkongs.md'>How can I clean utensils (e.g., knives) used to cut longkongs.md</a></li>
-<li><a href='How can I get my defrosted pizza dough to transfer from peel to oven.md'>How can I get my defrosted pizza dough to transfer from peel to oven.md</a></li>
-<li><a href='How do chefs know when to start cooking each dish in a restaurant.md'>How do chefs know when to start cooking each dish in a restaurant.md</a></li>
-<li><a href='How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half.md'>How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half.md</a></li>
-<li><a href='How do I age ginger.md'>How do I age ginger.md</a></li>
-<li><a href='how do I salvage canned mushrooms, canned with fruit fresh.md'>how do I salvage canned mushrooms, canned with fruit fresh.md</a></li>
-<li><a href='How many cells are in one granule of instant yeast.md'>How many cells are in one granule of instant yeast.md</a></li>
-<li><a href='How much potato to add to reduce saltiness.md'>How much potato to add to reduce saltiness.md</a></li>
-<li><a href='How to add lemon flavor to scallops with fresh lemons.md'>How to add lemon flavor to scallops with fresh lemons.md</a></li>
-<li><a href='how to not get burned keto flour pancakes.md'>how to not get burned keto flour pancakes.md</a></li>
-<li><a href='How to preserve bone broth.md'>How to preserve bone broth.md</a></li>
-<li><a href='Identify this brownie-like dessert.md'>Identify this brownie-like dessert.md</a></li>
-<li><a href='If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving.md'>If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving.md</a></li>
-<li><a href='Is it feasible to cook via a forge.md'>Is it feasible to cook via a forge.md</a></li>
-<li><a href='Is it safe to only rinse visible residue from container if I then refrigerate the container.md'>Is it safe to only rinse visible residue from container if I then refrigerate the container.md</a></li>
-<li><a href='Is it safe to use lye-based oven cleaner on a stainless steel pan.md'>Is it safe to use lye-based oven cleaner on a stainless steel pan.md</a></li>
-<li><a href='Is the appetizer of a three-course meal always a salad.md'>Is the appetizer of a three-course meal always a salad.md</a></li>
-<li><a href='Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle.md'>Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle.md</a></li>
-<li><a href='Is there such a thing as a dish being bland from too many flavors.md'>Is there such a thing as a dish being bland from too many flavors.md</a></li>
-<li><a href='Is this meat that I was told was brisket in Barcelona the same as U.S. brisket.md'>Is this meat that I was told was brisket in Barcelona the same as U.S. brisket.md</a></li>
-<li><a href='Is Virginia creeper safe to eat.md'>Is Virginia creeper safe to eat.md</a></li>
-<li><a href='Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat.md'>Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat.md</a></li>
-<li><a href='Less sweet  lower sugar alternative to icing.md'>Less sweet  lower sugar alternative to icing.md</a></li>
-<li><a href='Minimum timetemp for clove-flavor infusion.md'>Minimum timetemp for clove-flavor infusion.md</a></li>
-<li><a href='My netting is not, perhaps, the best.md'>My netting is not, perhaps, the best.md</a></li>
-<li><a href='Papaya puree types.md'>Papaya puree types.md</a></li>
-<li><a href='Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker).md'>Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker).md</a></li>
-<li><a href='Pulled pork slightly too tart and watery.md'>Pulled pork slightly too tart and watery.md</a></li>
-<li><a href='Saucepan Accessory.md'>Saucepan Accessory.md</a></li>
-<li><a href='Seasoning ceramic pan just gets sticky.md'>Seasoning ceramic pan just gets sticky.md</a></li>
-<li><a href='Selling food online nationally (US based).md'>Selling food online nationally (US based).md</a></li>
-<li><a href='Should I salt the water when boiling store-bought dry potato gnocchi.md'>Should I salt the water when boiling store-bought dry potato gnocchi.md</a></li>
-<li><a href='Shoulder Steak vs London Broil.md'>Shoulder Steak vs London Broil.md</a></li>
-<li><a href='Sour cream pound cake.md'>Sour cream pound cake.md</a></li>
-<li><a href='Spice blends have no flavor.md'>Spice blends have no flavor.md</a></li>
-<li><a href='Thawing frozen meat How long in fridge.md'>Thawing frozen meat How long in fridge.md</a></li>
-<li><a href='Today's equivalent of a cake of yeast.md'>Today's equivalent of a cake of yeast.md</a></li>
-<li><a href='Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder.md'>Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder.md</a></li>
-<li><a href='Using proofed () yeast in a recipe (confused about amounts).md'>Using proofed () yeast in a recipe (confused about amounts).md</a></li>
-<li><a href='What are the effects of resting (or not) carnitas meat after the initial braise.md'>What are the effects of resting (or not) carnitas meat after the initial braise.md</a></li>
-<li><a href='What cut of beef is plat nerveux.md'>What cut of beef is plat nerveux.md</a></li>
-<li><a href='What does this function symbol on my Cylinda convection oven mean.md'>What does this function symbol on my Cylinda convection oven mean.md</a></li>
-<li><a href='What done-ness is safe, but still juicy, to order wild boar cooked to.md'>What done-ness is safe, but still juicy, to order wild boar cooked to.md</a></li>
-<li><a href='What happens when you reduce stock all the way.md'>What happens when you reduce stock all the way.md</a></li>
-<li><a href='What is 91100 CV when referring to olives.md'>What is 91100 CV when referring to olives.md</a></li>
-<li><a href='What is the binding agent in eggs.md'>What is the binding agent in eggs.md</a></li>
-<li><a href='What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices.md'>What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices.md</a></li>
-<li><a href='What is the purpose of adding baking powder to a recipe that contains yeast.md'>What is the purpose of adding baking powder to a recipe that contains yeast.md</a></li>
-<li><a href='What is the white sediment  residue found in ginger juice.md'>What is the white sediment  residue found in ginger juice.md</a></li>
-<li><a href='What is this hinged tool with a box full of wicked grooves and teeth.md'>What is this hinged tool with a box full of wicked grooves and teeth.md</a></li>
-<li><a href='What is this leafy green with a sharp taste, and how do I safely usecook it.md'>What is this leafy green with a sharp taste, and how do I safely usecook it.md</a></li>
-<li><a href='What kind of pickle was this.md'>What kind of pickle was this.md</a></li>
-<li><a href='What would Disintegrant, Ammonium, or the units of measure glass or gl mean in a non-American book.md'>What would Disintegrant, Ammonium, or the units of measure glass or gl mean in a non-American book.md</a></li>
-<li><a href='What's the 'opposite' of mise en place.md'>What's the 'opposite' of mise en place.md</a></li>
-<li><a href='What's the point of the first action in double-acting baking powder.md'>What's the point of the first action in double-acting baking powder.md</a></li>
-<li><a href='Which emulsifer to use for low viscosity emulsions of 10-20% fat and water.md'>Which emulsifer to use for low viscosity emulsions of 10-20% fat and water.md</a></li>
-<li><a href='White wine vinegar query.md'>White wine vinegar query.md</a></li>
-<li><a href='Why consume DRIED apricots within 21 days.md'>Why consume DRIED apricots within 21 days.md</a></li>
-<li><a href='Why did my pot get so blackened after boiling some eggs.md'>Why did my pot get so blackened after boiling some eggs.md</a></li>
-<li><a href='Why do some creamsfats whip better than others.md'>Why do some creamsfats whip better than others.md</a></li>
-<li><a href='Why does cooking fewer eggs require more watersteam.md'>Why does cooking fewer eggs require more watersteam.md</a></li>
-<li><a href='Why does my cheese flavouring have a sweetish smellflavour.md'>Why does my cheese flavouring have a sweetish smellflavour.md</a></li>
-<li><a href='Why does my deep fryer say not to use peanut oil.md'>Why does my deep fryer say not to use peanut oil.md</a></li>
-<li><a href='Why does salt and seasoning stick better to hot foods.md'>Why does salt and seasoning stick better to hot foods.md</a></li>
-<li><a href='Why doesn't my cheese cake rise when cooked in a water bath.md'>Why doesn't my cheese cake rise when cooked in a water bath.md</a></li>
-<li><a href='Why roast mussels in an oven, rather than steam or stir fry in a stock pot.md'>Why roast mussels in an oven, rather than steam or stir fry in a stock pot.md</a></li>
-</ul></body></html>
+- [Acrid taste on King Crab Legs](Acrid taste on King Crab Legs.md)
+- [Are chilies a common ingredient in Italian cooking](Are chilies a common ingredient in Italian cooking.md)
+- [Are shelled nuts with or without their shells](Are shelled nuts with or without their shells.md)
+- [Are those skillets damaged](Are those skillets damaged.md)
+- [Attempted deep frying smoke fiasco](Attempted deep frying smoke fiasco.md)
+- [Bell Pepper cooking in the microwave](Bell Pepper cooking in the microwave.md)
+- [Can beans be overcooked](Can beans be overcooked.md)
+- [Can I bake a finished Ginger Bread House](Can I bake a finished Ginger Bread House.md)
+- [Can I fry food with solely essential lemon oil](Can I fry food with solely essential lemon oil.md)
+- [Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables](Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables.md)
+- [Can I use Star San no rinse for sanitizing canning tools and utensils](Can I use Star San no rinse for sanitizing canning tools and utensils.md)
+- [Can I verify that a product using the USDA emblem is valid](Can I verify that a product using the USDA emblem is valid.md)
+- [Can this Kitchen Art Non Fry Pan, made in South Korea, be seasoned](Can this Kitchen Art Non Fry Pan, made in South Korea, be seasoned.md)
+- [Can yeast be used without water](Can yeast be used without water.md)
+- [Chocolate Sweetening in Ganache](Chocolate Sweetening in Ganache.md)
+- [Chopping shallots super fine](Chopping shallots super fine.md)
+- [Considerations for prepping breaded chicken for freezing](Considerations for prepping breaded chicken for freezing.md)
+- [Converting fresh chilli pepper to ground](Converting fresh chilli pepper to ground.md)
+- [Cooking octopus simple boil or broth](Cooking octopus simple boil or broth.md)
+- [Cooking pasta in water temperature range](Cooking pasta in water temperature range.md)
+- [Damage to pan bottom](Damage to pan bottom.md)
+- [Details of pre-cooking chicken before shallow-frying](Details of pre-cooking chicken before shallow-frying.md)
+- [Does peppers (capsaicin) actually burn](Does peppers (capsaicin) actually burn.md)
+- [Does the vendors’ storage method affect shellfish quality](Does the vendors’ storage method affect shellfish quality.md)
+- [Drying beef to preserve it without any equipment](Drying beef to preserve it without any equipment.md)
+- [Finishing pre-cooked prime rib, day-of](Finishing pre-cooked prime rib, day-of.md)
+- [Fix acorn squash that I baked too long, now too dry](Fix acorn squash that I baked too long, now too dry.md)
+- [How can a flat rotating disk whip egg whites](How can a flat rotating disk whip egg whites.md)
+- [How can I clean utensils (e.g., knives) used to cut longkongs](How can I clean utensils (e.g., knives) used to cut longkongs.md)
+- [How can I get my defrosted pizza dough to transfer from peel to oven](How can I get my defrosted pizza dough to transfer from peel to oven.md)
+- [How do chefs know when to start cooking each dish in a restaurant](How do chefs know when to start cooking each dish in a restaurant.md)
+- [How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half](How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half.md)
+- [How do I age ginger](How do I age ginger.md)
+- [how do I salvage canned mushrooms, canned with fruit fresh](how do I salvage canned mushrooms, canned with fruit fresh.md)
+- [How many cells are in one granule of instant yeast](How many cells are in one granule of instant yeast.md)
+- [How much potato to add to reduce saltiness](How much potato to add to reduce saltiness.md)
+- [How to add lemon flavor to scallops with fresh lemons](How to add lemon flavor to scallops with fresh lemons.md)
+- [how to not get burned keto flour pancakes](how to not get burned keto flour pancakes.md)
+- [How to preserve bone broth](How to preserve bone broth.md)
+- [Identify this brownie-like dessert](Identify this brownie-like dessert.md)
+- [If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving](If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving.md)
+- [index](index.md)
+- [Is it feasible to cook via a forge](Is it feasible to cook via a forge.md)
+- [Is it safe to only rinse visible residue from container if I then refrigerate the container](Is it safe to only rinse visible residue from container if I then refrigerate the container.md)
+- [Is it safe to use lye-based oven cleaner on a stainless steel pan](Is it safe to use lye-based oven cleaner on a stainless steel pan.md)
+- [Is the appetizer of a three-course meal always a salad](Is the appetizer of a three-course meal always a salad.md)
+- [Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle](Is there a Pyrex baking dish that can fit a packaged dry lasagna noodle.md)
+- [Is there such a thing as a dish being bland from too many flavors](Is there such a thing as a dish being bland from too many flavors.md)
+- [Is this meat that I was told was brisket in Barcelona the same as U.S. brisket](Is this meat that I was told was brisket in Barcelona the same as U.S. brisket.md)
+- [Is Virginia creeper safe to eat](Is Virginia creeper safe to eat.md)
+- [Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat](Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat.md)
+- [Less sweet  lower sugar alternative to icing](Less sweet  lower sugar alternative to icing.md)
+- [Minimum timetemp for clove-flavor infusion](Minimum timetemp for clove-flavor infusion.md)
+- [My netting is not, perhaps, the best](My netting is not, perhaps, the best.md)
+- [Papaya puree types](Papaya puree types.md)
+- [Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker)](Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker).md)
+- [Pulled pork slightly too tart and watery](Pulled pork slightly too tart and watery.md)
+- [Saucepan Accessory](Saucepan Accessory.md)
+- [Seasoning ceramic pan just gets sticky](Seasoning ceramic pan just gets sticky.md)
+- [Selling food online nationally (US based)](Selling food online nationally (US based).md)
+- [Should I salt the water when boiling store-bought dry potato gnocchi](Should I salt the water when boiling store-bought dry potato gnocchi.md)
+- [Shoulder Steak vs London Broil](Shoulder Steak vs London Broil.md)
+- [Sour cream pound cake](Sour cream pound cake.md)
+- [Spice blends have no flavor](Spice blends have no flavor.md)
+- [Thawing frozen meat How long in fridge](Thawing frozen meat How long in fridge.md)
+- [Today's equivalent of a cake of yeast](Today's equivalent of a cake of yeast.md)
+- [Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder](Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder.md)
+- [Using proofed () yeast in a recipe (confused about amounts)](Using proofed () yeast in a recipe (confused about amounts).md)
+- [What are the effects of resting (or not) carnitas meat after the initial braise](What are the effects of resting (or not) carnitas meat after the initial braise.md)
+- [What cut of beef is plat nerveux](What cut of beef is plat nerveux.md)
+- [What does this function symbol on my Cylinda convection oven mean](What does this function symbol on my Cylinda convection oven mean.md)
+- [What done-ness is safe, but still juicy, to order wild boar cooked to](What done-ness is safe, but still juicy, to order wild boar cooked to.md)
+- [What happens when you reduce stock all the way](What happens when you reduce stock all the way.md)
+- [What is 91100 CV when referring to olives](What is 91100 CV when referring to olives.md)
+- [What is the binding agent in eggs](What is the binding agent in eggs.md)
+- [What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices](What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices.md)
+- [What is the purpose of adding baking powder to a recipe that contains yeast](What is the purpose of adding baking powder to a recipe that contains yeast.md)
+- [What is the white sediment  residue found in ginger juice](What is the white sediment  residue found in ginger juice.md)
+- [What is this hinged tool with a box full of wicked grooves and teeth](What is this hinged tool with a box full of wicked grooves and teeth.md)
+- [What is this leafy green with a sharp taste, and how do I safely usecook it](What is this leafy green with a sharp taste, and how do I safely usecook it.md)
+- [What kind of pickle was this](What kind of pickle was this.md)
+- [What would Disintegrant, Ammonium, or the units of measure glass or gl mean in a non-American book](What would Disintegrant, Ammonium, or the units of measure glass or gl mean in a non-American book.md)
+- [What's the 'opposite' of mise en place](What's the 'opposite' of mise en place.md)
+- [What's the point of the first action in double-acting baking powder](What's the point of the first action in double-acting baking powder.md)
+- [Which emulsifer to use for low viscosity emulsions of 10-20% fat and water](Which emulsifer to use for low viscosity emulsions of 10-20% fat and water.md)
+- [White wine vinegar query](White wine vinegar query.md)
+- [Why consume DRIED apricots within 21 days](Why consume DRIED apricots within 21 days.md)
+- [Why did my pot get so blackened after boiling some eggs](Why did my pot get so blackened after boiling some eggs.md)
+- [Why do some creamsfats whip better than others](Why do some creamsfats whip better than others.md)
+- [Why does cooking fewer eggs require more watersteam](Why does cooking fewer eggs require more watersteam.md)
+- [Why does my cheese flavouring have a sweetish smellflavour](Why does my cheese flavouring have a sweetish smellflavour.md)
+- [Why does my deep fryer say not to use peanut oil](Why does my deep fryer say not to use peanut oil.md)
+- [Why does salt and seasoning stick better to hot foods](Why does salt and seasoning stick better to hot foods.md)
+- [Why doesn't my cheese cake rise when cooked in a water bath](Why doesn't my cheese cake rise when cooked in a water bath.md)
+- [Why roast mussels in an oven, rather than steam or stir fry in a stock pot](Why roast mussels in an oven, rather than steam or stir fry in a stock pot.md)
+
