@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122254)._
 
 _By: [Albert](https://cooking.stackexchange.com/u/75381)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Is this meat that I was told was brisket in Barcelona the same as U.S. brisket?

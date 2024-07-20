@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110181)._
 
 _By: [Valeri Lagunov](https://cooking.stackexchange.com/u/87142)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables?

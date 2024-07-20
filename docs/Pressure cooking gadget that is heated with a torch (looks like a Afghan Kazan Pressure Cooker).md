@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/107552)._
 
 _By: [DataDiplomat](https://cooking.stackexchange.com/u/79447)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker)

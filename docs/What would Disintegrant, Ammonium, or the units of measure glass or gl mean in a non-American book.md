@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/105027)._
 
 _By: [Bill Donovan](https://cooking.stackexchange.com/u/80835)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What would "Disintegrant", "Ammonium", or the units of measure "glass" or "gl" mean in a non-American book?

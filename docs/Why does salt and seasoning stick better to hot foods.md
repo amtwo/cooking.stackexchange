@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/114972)._
 
 _By: [Subhasish Mukherjee](https://cooking.stackexchange.com/u/87242)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Why does salt and seasoning stick better to hot foods?

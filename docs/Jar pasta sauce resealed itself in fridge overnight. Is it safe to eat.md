@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/102930)._
 
 _By: [HangryLady](https://cooking.stackexchange.com/u/79044)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Jar pasta sauce resealed itself in fridge overnight. Is it safe to eat?

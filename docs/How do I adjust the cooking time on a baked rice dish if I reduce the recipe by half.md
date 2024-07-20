@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/102614)._
 
 _By: [Sara](https://cooking.stackexchange.com/u/78765)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half?

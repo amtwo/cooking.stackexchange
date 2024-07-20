@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120616)._
 
 _By: [Barbara Sasson O'leary](https://cooking.stackexchange.com/u/48332)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Bell Pepper cooking in the microwave

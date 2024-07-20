@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119970)._
 
 _By: [A. Lavoie](https://cooking.stackexchange.com/u/98150)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder?

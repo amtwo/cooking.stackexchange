@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112302)._
 
 _By: [Xander Henderson](https://cooking.stackexchange.com/u/89259)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What is this hinged tool with a box full of wicked grooves and teeth?

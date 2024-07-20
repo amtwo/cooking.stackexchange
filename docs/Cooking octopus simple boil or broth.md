@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103269)._
 
 _By: [Gonçalo Peres](https://cooking.stackexchange.com/u/56955)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Cooking octopus: simple boil or broth?

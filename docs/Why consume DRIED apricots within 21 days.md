@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122310)._
 
 _By: [Sleepster](https://cooking.stackexchange.com/u/9668)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Why consume DRIED apricots within 21 days?

@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119407)._
 
 _By: [GdD](https://cooking.stackexchange.com/u/19707)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Why does my deep fryer say not to use peanut oil?

@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103636)._
 
 _By: [Sneftel](https://cooking.stackexchange.com/u/58067)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What's the point of the first action in double-acting baking powder?

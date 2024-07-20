@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/113979)._
 
 _By: [the real deal](https://cooking.stackexchange.com/u/80467)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What is the purpose of adding baking powder to a recipe that contains yeast?

@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117944)._
 
 _By: [Basil Bourque](https://cooking.stackexchange.com/u/23505)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Fix acorn squash that I baked too long, now too dry

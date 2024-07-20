@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/105458)._
 
 _By: [Djave](https://cooking.stackexchange.com/u/81289)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: How do chefs know when to start cooking each dish in a restaurant?

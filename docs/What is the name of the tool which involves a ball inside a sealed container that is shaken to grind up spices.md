@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120113)._
 
 _By: [J. Mini](https://cooking.stackexchange.com/u/67328)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices?

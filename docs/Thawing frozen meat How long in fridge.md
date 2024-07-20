@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117292)._
 
 _By: [Mercfh](https://cooking.stackexchange.com/u/36705)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Thawing frozen meat: How long in fridge?

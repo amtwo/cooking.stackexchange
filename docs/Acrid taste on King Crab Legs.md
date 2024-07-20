@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104502)._
 
 _By: [Jason P Sallinger](https://cooking.stackexchange.com/u/28767)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Acrid taste on King Crab Legs

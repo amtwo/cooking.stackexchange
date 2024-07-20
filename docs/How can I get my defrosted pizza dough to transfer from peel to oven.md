@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/111090)._
 
 _By: [laurall](https://cooking.stackexchange.com/u/88035)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: How can I get my defrosted pizza dough to transfer from peel to oven?

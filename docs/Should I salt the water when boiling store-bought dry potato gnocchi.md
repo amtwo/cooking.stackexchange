@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115368)._
 
 _By: [hb20007](https://cooking.stackexchange.com/u/55728)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Should I salt the water when boiling store-bought dry potato gnocchi?

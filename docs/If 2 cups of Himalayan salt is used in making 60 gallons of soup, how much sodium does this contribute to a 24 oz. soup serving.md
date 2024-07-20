@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119286)._
 
 _By: [Paul B. Slater](https://cooking.stackexchange.com/u/97025)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving?

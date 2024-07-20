@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103509)._
 
 _By: [James Wilson](https://cooking.stackexchange.com/u/7945)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Converting fresh chilli pepper to ground?

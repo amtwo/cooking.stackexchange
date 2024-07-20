@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119724)._
 
 _By: [Christian Convey](https://cooking.stackexchange.com/u/97718)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Minimum time/temp for clove-flavor infusion?

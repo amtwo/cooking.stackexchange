@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117828)._
 
 _By: [Wodin Tiw](https://cooking.stackexchange.com/u/93169)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Why does my cheese flavouring have a sweetish smell/flavour?

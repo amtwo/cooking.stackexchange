@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/108350)._
 
 _By: [Franck Dernoncourt](https://cooking.stackexchange.com/u/10703)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: How can I clean utensils (e.g., knives) used to cut longkongs?

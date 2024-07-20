@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/109745)._
 
 _By: [OkBeat9](https://cooking.stackexchange.com/u/75734)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What is the white sediment / residue found in ginger juice?

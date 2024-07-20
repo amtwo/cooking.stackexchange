@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112462)._
 
 _By: [Nav](https://cooking.stackexchange.com/u/7812)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Details of pre-cooking chicken before shallow-frying?

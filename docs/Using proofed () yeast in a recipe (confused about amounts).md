@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110364)._
 
 _By: [Simone](https://cooking.stackexchange.com/u/29174)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Using proofed (?) yeast in a recipe (confused about amounts)

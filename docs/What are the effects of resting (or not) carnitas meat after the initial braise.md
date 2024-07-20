@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120092)._
 
 _By: [nate](https://cooking.stackexchange.com/u/73295)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: What are the effects of resting (or not) carnitas meat after the initial braise

@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104193)._
 
 _By: [Jim](https://cooking.stackexchange.com/u/80074)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Are chilies a common ingredient in Italian cooking?

@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117763)._
 
 _By: [Karen Douglass](https://cooking.stackexchange.com/u/96348)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: how do I salvage canned mushrooms, canned with fruit fresh

@@ -1,3 +1,5 @@
+## Andy's [Seasoned Advice](https://cooking.stackexchange.com/) Contributions
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 - [Acrid taste on King Crab Legs](Acrid taste on King Crab Legs.md)
 - [Are chilies a common ingredient in Italian cooking](Are chilies a common ingredient in Italian cooking.md)
 - [Are shelled nuts with or without their shells](Are shelled nuts with or without their shells.md)

@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115029)._
 
 _By: [Geoffrey](https://cooking.stackexchange.com/u/93171)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Is there such a thing as a dish being bland from too many flavors?

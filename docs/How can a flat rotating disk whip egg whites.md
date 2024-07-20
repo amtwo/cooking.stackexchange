@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117738)._
 
 _By: [JJJ](https://cooking.stackexchange.com/u/61703)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: How can a flat rotating disk whip egg whites?

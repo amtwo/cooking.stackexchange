@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119546)._
 
 _By: [Italian Philosophers 4 Monica](https://cooking.stackexchange.com/u/64096)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Pulled pork slightly too tart and watery

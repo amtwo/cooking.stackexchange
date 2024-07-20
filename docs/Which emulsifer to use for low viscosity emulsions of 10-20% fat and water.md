@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115655)._
 
 _By: [Jake](https://cooking.stackexchange.com/u/65637)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Which emulsifer to use for low viscosity emulsions of 10-20% fat and water

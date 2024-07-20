@@ -3,6 +3,7 @@
 _This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104119)._
 
 _By: [Aptos](https://cooking.stackexchange.com/u/80022)_
+All content is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 <br>
 --------------------------------------------
 ### Q: Finishing pre-cooked prime rib, day-of?
