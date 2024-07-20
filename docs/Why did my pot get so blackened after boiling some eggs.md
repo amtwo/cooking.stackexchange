@@ -1,9 +1,10 @@
 # Why did my pot get so blackened after boiling some eggs?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/116547)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/116547)._
 
-_By: [Kroltan](https://dba.stackexchange.com/u/54745)]_
-<br><hr>
+_By: [Kroltan](https://cooking.stackexchange.com/u/54745)_
+<br>
+--------------------------------------------
 ### Q: Why did my pot get so blackened after boiling some eggs?
 <p>I bought this pot a few weeks ago. I've only used it a couple times since, but yesterday I decided to boil some eggs in it.</p>
 <p>I ended up forgetting about them for a minute, when I came back the water was not enough to cover them anymore. About 10% of the eggs surface were exposed to air, however, the pot was this very dark color.</p>

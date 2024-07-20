@@ -1,9 +1,10 @@
 # Fix acorn squash that I baked too long, now too dry
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117944)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117944)._
 
-_By: [Basil Bourque](https://dba.stackexchange.com/u/23505)]_
-<br><hr>
+_By: [Basil Bourque](https://cooking.stackexchange.com/u/23505)_
+<br>
+--------------------------------------------
 ### Q: Fix acorn squash that I baked too long, now too dry
 <p>I baked some acorn squash too long, and now it is a bit too dry, not juicy.</p>
 <p>If I mash the squash, what might I add to improve it?</p>

@@ -1,9 +1,10 @@
 # What is 91/100 CV when referring to olives?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115881)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115881)._
 
-_By: [hb20007](https://dba.stackexchange.com/u/55728)]_
-<br><hr>
+_By: [hb20007](https://cooking.stackexchange.com/u/55728)_
+<br>
+--------------------------------------------
 ### Q: What is 91/100 CV when referring to olives?
 <p>I often see numbers like 91/100 CV when buying olives.</p>
 <p>Example: <a href="https://delicias-uk.com/en/inicio/6555-green-olive-macarico-91100-cv-500g" rel="nofollow noreferrer">GREEN OLIVE MACARICO GORDAL 91/100 CV 500G</a></p>

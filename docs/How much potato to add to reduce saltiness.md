@@ -1,9 +1,10 @@
 # How much potato to add to reduce saltiness
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119575)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119575)._
 
-_By: [Nav](https://dba.stackexchange.com/u/7812)]_
-<br><hr>
+_By: [Nav](https://cooking.stackexchange.com/u/7812)_
+<br>
+--------------------------------------------
 ### Q: How much potato to add to reduce saltiness
 <p>I've heard that adding potato to an overly salty dish can reduce the saltiness.</p>
 <p>I prepared 500g of rabbit meat in a pressure cooker. Realized that I had added one teaspoon worth of salt more than what was necessary. Since the meat seemed to need a bit more cooking anyway, I peeled and sliced a medium sized potato and dunked it into the pressure cooker which still had the rabbit curry in it, and re-cooked it on medium flame until steam formation.  I assume this is the right way to add potato. Not sure if the potato can be boiled separately and then added to a curry to reduce saltiness.</p>

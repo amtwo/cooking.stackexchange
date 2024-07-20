@@ -1,9 +1,10 @@
 # What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/120113)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120113)._
 
-_By: [J. Mini](https://dba.stackexchange.com/u/67328)]_
-<br><hr>
+_By: [J. Mini](https://cooking.stackexchange.com/u/67328)_
+<br>
+--------------------------------------------
 ### Q: What is the name of the tool which involves a ball inside a sealed container that is shaken to grind up spices?
 <p>I have seen a tool which is in two parts. In either part, you place both the plastic ball that comes with the tool and spices. You then screw the two parts of the tool together (it's plastic, it's easy). Now that you spices and the ball are sealed within the container, you can violently shake the tool to grind your spices to near dust. I've owned one, but because it was made out of plastic, the violent shaking smashed it.</p>
 <p>What is the name of this tool?

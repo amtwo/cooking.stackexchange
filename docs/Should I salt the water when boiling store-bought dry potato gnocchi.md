@@ -1,9 +1,10 @@
 # Should I salt the water when boiling store-bought dry potato gnocchi?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115368)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115368)._
 
-_By: [hb20007](https://dba.stackexchange.com/u/55728)]_
-<br><hr>
+_By: [hb20007](https://cooking.stackexchange.com/u/55728)_
+<br>
+--------------------------------------------
 ### Q: Should I salt the water when boiling store-bought dry potato gnocchi?
 <p>Should I salt the water when boiling dry gnocchi? I have seen some recipes where they do salt the water, but also advice on some websites recommending not to do so.</p>
 <p>Most information on the internet seems to be about fresh gnocchi, so I’m not sure if the advice would be different for dry gnocchi.</p>

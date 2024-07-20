@@ -1,9 +1,10 @@
 # What done-ness is safe, but still juicy, to order wild boar cooked to?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117517)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117517)._
 
-_By: [Jake](https://dba.stackexchange.com/u/50833)]_
-<br><hr>
+_By: [Jake](https://cooking.stackexchange.com/u/50833)_
+<br>
+--------------------------------------------
 ### Q: What done-ness is safe, but still juicy, to order wild boar cooked to?
 <p>I recently went to a restaurant here that claims to offer local fair. It was in a super touristy area so I have my doubts, but it plays the part well.</p>
 <p>Anyway, what I ordered was the <a href="https://shogunfarms.com/" rel="nofollow noreferrer">Shogun Farms Wild Boar</a> loin, though I can't remember how it was cooked, but I think it was either on a grill or seared. However, I have always been told that you have to cook pork to well done or you will get parasites and die. And I learned from watching <em><strong>Monsters Inside Me</strong></em> on Animal Planet that you should cook wild game well done or you will get parasites and your life will suck. So basically, I ordered my wild pork game pork well done so I wouldn't get parasites and have my life suck until I die.</p>

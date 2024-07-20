@@ -1,9 +1,10 @@
 # Sour cream pound cake
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103258)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103258)._
 
-_By: [O Mitchell](https://dba.stackexchange.com/u/79317)]_
-<br><hr>
+_By: [O Mitchell](https://cooking.stackexchange.com/u/79317)_
+<br>
+--------------------------------------------
 ### Q: Sour cream pound cake
 <p>I have a recipe that calls for </p>
 

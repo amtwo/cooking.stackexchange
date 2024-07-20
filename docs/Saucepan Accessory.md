@@ -1,9 +1,10 @@
 # Saucepan Accessory
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/112280)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/112280)._
 
-_By: [Avrohom Yitzchok](https://dba.stackexchange.com/u/14991)]_
-<br><hr>
+_By: [Avrohom Yitzchok](https://cooking.stackexchange.com/u/14991)_
+<br>
+--------------------------------------------
 ### Q: Saucepan Accessory
 <p>When we cook our cholent (<a href="https://cooking.stackexchange.com/questions/66800">overnight stew</a>), it sometimes dries out on top.</p>
 <p>For those who do not relish this part, I am looking for a stainless steel insert to my saucepan that will keep the solid ingredients below a liquid layer. Can anyone recommend a product please?</p>

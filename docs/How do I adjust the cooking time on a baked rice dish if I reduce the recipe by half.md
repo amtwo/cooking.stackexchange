@@ -1,9 +1,10 @@
 # How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/102614)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/102614)._
 
-_By: [Sara](https://dba.stackexchange.com/u/78765)]_
-<br><hr>
+_By: [Sara](https://cooking.stackexchange.com/u/78765)_
+<br>
+--------------------------------------------
 ### Q: How do I adjust the cooking time on a baked rice dish if I reduce the recipe by half?
 <p>I want to make a rice dish that gets baked - a maqluba, but I want to make half the quantity of the recipe. Do I adjust the baking time? The recipe calls for simmering 30 mins, baking 30 mins, resting 10 mins. It uses raw (soaked) basmati rice. Calls for 1 and 2/3 cups of rice but I’ll cut that in half. I know I’ll need a smaller pot, too.</p>
 

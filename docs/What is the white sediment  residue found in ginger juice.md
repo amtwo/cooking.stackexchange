@@ -1,9 +1,10 @@
 # What is the white sediment / residue found in ginger juice?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/109745)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/109745)._
 
-_By: [OkBeat9](https://dba.stackexchange.com/u/75734)]_
-<br><hr>
+_By: [OkBeat9](https://cooking.stackexchange.com/u/75734)_
+<br>
+--------------------------------------------
 ### Q: What is the white sediment / residue found in ginger juice?
 <p>I blended up some skinned ginger and squeezed the juice out of it via a meshed strainer with small holes (I only wanted the juice and I was collecting the pulp for cooking). I collected the juice (200 ml) in a steel vessel, where it remained for over 1 hour. Then I poured it into the lime I squeezed for a lemonade. Later on washing the dish I found a white sediment, I use sediment that instead of residue (ginger fiber) as that was thick white coating on the bottom of plate and I had to use the sponge to wash it away.</p>
 <p>Even though the ginger juice was yellow-greenish, this was &quot;salt like&quot; white.</p>

@@ -1,9 +1,10 @@
 # Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/110181)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110181)._
 
-_By: [Valeri Lagunov](https://dba.stackexchange.com/u/87142)]_
-<br><hr>
+_By: [Valeri Lagunov](https://cooking.stackexchange.com/u/87142)_
+<br>
+--------------------------------------------
 ### Q: Can I just rinse the knife & cutting board, instead of washing it, after cutting washed vegetables?
 <p>I was wondering something I can't seem to Google anywhere, concerning food safety/hygiene.</p>
 <p>And that is whether I can just rinse the cutting board/knife, after cutting up some washed vegetables (e.g. cucumber &amp; tomatoes) or whether doing so could be quite unhygienic and I ought to just wash it every time</p>

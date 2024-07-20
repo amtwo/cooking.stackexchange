@@ -1,9 +1,10 @@
 # Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119970)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119970)._
 
-_By: [A. Lavoie](https://dba.stackexchange.com/u/98150)]_
-<br><hr>
+_By: [A. Lavoie](https://cooking.stackexchange.com/u/98150)_
+<br>
+--------------------------------------------
 ### Q: Trying to make my own gummy bears with monk fruit erythritol. Can I substitute a box of jello with plain gelatin powder?
 <p>I have a recipe for cannabis gummies that yields the perfect texture I am after (exactly like a maynards gummy bear and stays at room temperature).</p>
 <p>I'd like to replicate that exact recipe and swap the sugar for a monkfruit/erithrol blend, but it calls for a box of jello. Jello is just powdered gelatin, right? I would think they could be easily swapped out.</p>

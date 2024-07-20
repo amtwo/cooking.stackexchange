@@ -1,9 +1,10 @@
 # How can I clean utensils (e.g., knives) used to cut longkongs?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/108350)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/108350)._
 
-_By: [Franck Dernoncourt](https://dba.stackexchange.com/u/10703)]_
-<br><hr>
+_By: [Franck Dernoncourt](https://cooking.stackexchange.com/u/10703)_
+<br>
+--------------------------------------------
 ### Q: How can I clean utensils (e.g., knives) used to cut longkongs?
 <p>After using utensils to prepare/eat <a href="https://en.wikipedia.org/w/index.php?title=Longkong" rel="nofollow noreferrer">longkongs</a>, the utensils are very sticky (by far stickier than for any other types of fruit that I have tried so far). I tried to use soap and dishwashing liquid, as well as letting the utensils in the water for a few hours, but the  utensils are still sticky.</p>
 

@@ -1,9 +1,10 @@
 # Considerations for prepping breaded chicken for freezing
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/86516)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/86516)._
 
-_By: [Justin Dearing](https://dba.stackexchange.com/u/6079)]_
-<br><hr>
+_By: [Justin Dearing](https://cooking.stackexchange.com/u/6079)_
+<br>
+--------------------------------------------
 ### Q: Considerations for prepping breaded chicken for freezing
 <p>I have chicken breasts. I want to cut into strips, bread, freeze and later bake or fry. The binder will be egg. The breading will be semolinia bread crumbs. There will be parmesan and italian herbs in the breading. Any special considerations compared to breading with the intention of cooking immediately?</p>
 

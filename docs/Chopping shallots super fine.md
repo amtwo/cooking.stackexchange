@@ -1,9 +1,10 @@
 # Chopping shallots super fine
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/121110)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/121110)._
 
-_By: [Ernest Friedman-Hill](https://dba.stackexchange.com/u/10037)]_
-<br><hr>
+_By: [Ernest Friedman-Hill](https://cooking.stackexchange.com/u/10037)_
+<br>
+--------------------------------------------
 ### Q: Chopping shallots super fine
 <p>My favorite recipe for deviled eggs involves finely-chopped shallots and a piping bag. It’s rather labor-intensive to chop the shallots finely enough to avoid clogging the piping tip. My knife skills are up to the challenge, but as I was doing it today I was wondering if there might be a better way. I’ve never tried grinding them with coarse salt and the side of a knife, as you can do with garlic; I suspect it wouldn’t work. Any other ideas?</p>
 

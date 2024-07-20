@@ -1,9 +1,10 @@
 # What would "Disintegrant", "Ammonium", or the units of measure "glass" or "gl" mean in a non-American book?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/105027)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/105027)._
 
-_By: [Bill Donovan](https://dba.stackexchange.com/u/80835)]_
-<br><hr>
+_By: [Bill Donovan](https://cooking.stackexchange.com/u/80835)_
+<br>
+--------------------------------------------
 ### Q: What would "Disintegrant", "Ammonium", or the units of measure "glass" or "gl" mean in a non-American book?
 <p>Just purchased a baking cookbook online which, while written in English, is clearly from a country outside of the U.S. Units are metric, which is fine, but there a couple of terms with which I am unfamiliar. Could anyone give me a clue about 'disintegrant', 'ammonium', or the units of measure 'glass' for dry ingredients or 'gl' for liquids? Thanks!</p>
 

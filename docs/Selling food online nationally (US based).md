@@ -1,9 +1,10 @@
 # Selling food online nationally (US based)
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/110814)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/110814)._
 
-_By: [Kristen Kamm](https://dba.stackexchange.com/u/87752)]_
-<br><hr>
+_By: [Kristen Kamm](https://cooking.stackexchange.com/u/87752)_
+<br>
+--------------------------------------------
 ### Q: Selling food online nationally (US based)
 <p>I’m wanting to sell a dry-mix product online.</p>
 <p>I am aware of the required local/state licenses as well as the need for food handler certification and commercial kitchen.</p>

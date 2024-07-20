@@ -1,9 +1,10 @@
 # How to preserve bone broth?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/122393)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122393)._
 
-_By: [FUZxxl](https://dba.stackexchange.com/u/17866)]_
-<br><hr>
+_By: [FUZxxl](https://cooking.stackexchange.com/u/17866)_
+<br>
+--------------------------------------------
 ### Q: How to preserve bone broth?
 <p>I will soon receive a few kg of fresh boar bones.  From these, I want to make bone broth and preserve them in Weck jars, as I don't have a freezer.</p>
 <p>Unfortunately I do not have a pressure cooker of any kind.  What's my best bet to minimise the risk of spoilage or botulism?  How long can I realistically keep the preserved bone broth?</p>

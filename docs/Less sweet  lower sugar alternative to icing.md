@@ -1,9 +1,10 @@
 # Less sweet / lower sugar alternative to icing?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/95967)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/95967)._
 
-_By: [user1605665](https://dba.stackexchange.com/u/46178)]_
-<br><hr>
+_By: [user1605665](https://cooking.stackexchange.com/u/46178)_
+<br>
+--------------------------------------------
 ### Q: Less sweet / lower sugar alternative to icing?
 <p>When making a cake as a base line I usually halve the recommended sugar as I find it too sweet. Now I want to ice the cake for appearance and colour I notice that icing recipes are loaded with sugar.  Is there a less sweet / lower sugar alternative that will allow me to decorate the cake</p>
 

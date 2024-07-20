@@ -1,9 +1,10 @@
 # Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker)
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/107552)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/107552)._
 
-_By: [DataDiplomat](https://dba.stackexchange.com/u/79447)]_
-<br><hr>
+_By: [DataDiplomat](https://cooking.stackexchange.com/u/79447)_
+<br>
+--------------------------------------------
 ### Q: Pressure cooking gadget that is heated with a torch (looks like a Afghan Kazan Pressure Cooker)
 <p>I have no idea what the thing is called but I found these videos via TikTok but cannot find the name of the device. I unfortunately also did not save any screenshots of this thing... </p>
 

@@ -1,9 +1,10 @@
 # What kind of pickle was this?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/117479)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/117479)._
 
-_By: [King_llama](https://dba.stackexchange.com/u/66923)]_
-<br><hr>
+_By: [King_llama](https://cooking.stackexchange.com/u/66923)_
+<br>
+--------------------------------------------
 ### Q: What kind of pickle was this?
 <p>A while ago, I ate a charcuterie board that had, among other things, a strange pickled vegetable that I had never seen before and have not heard of since.</p>
 <p>I say vegetable but it was probably a fruit.</p>

@@ -1,9 +1,10 @@
 # Acrid taste on King Crab Legs
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/104502)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104502)._
 
-_By: [Jason P Sallinger](https://dba.stackexchange.com/u/28767)]_
-<br><hr>
+_By: [Jason P Sallinger](https://cooking.stackexchange.com/u/28767)_
+<br>
+--------------------------------------------
 ### Q: Acrid taste on King Crab Legs
 <p>I bought some crab legs on Monday night.  I steamed them on Tuesday night.</p>
 

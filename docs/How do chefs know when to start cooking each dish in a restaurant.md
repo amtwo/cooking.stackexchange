@@ -1,9 +1,10 @@
 # How do chefs know when to start cooking each dish in a restaurant?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/105458)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/105458)._
 
-_By: [Djave](https://dba.stackexchange.com/u/81289)]_
-<br><hr>
+_By: [Djave](https://cooking.stackexchange.com/u/81289)_
+<br>
+--------------------------------------------
 ### Q: How do chefs know when to start cooking each dish in a restaurant?
 <p>At a restaurant, you frequently order starters and main courses simultaneously. </p>
 

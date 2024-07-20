@@ -1,9 +1,10 @@
 # Is there such a thing as a dish being bland from too many flavors?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115029)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115029)._
 
-_By: [Geoffrey](https://dba.stackexchange.com/u/93171)]_
-<br><hr>
+_By: [Geoffrey](https://cooking.stackexchange.com/u/93171)_
+<br>
+--------------------------------------------
 ### Q: Is there such a thing as a dish being bland from too many flavors?
 <p>My girlfriend has asked for my opinion on a few dishes that she has been experimenting with, and not being particularly well-versed in the language used to discuss food, I have been having trouble expressing my opinion on two specific dishes (namely, a stew using ground beef and a Thai curry with chicken).</p>
 <p>I have eaten several different versions of both dishes over several months, so I have developed a pretty good sense of which versions of them I like the best. We have also tried similar dishes from local restaurants in order to have a common reference point. Generally, I think that the dishes taste fine, but sometimes I feel that they become &quot;bland&quot; (for lack of a better word) from too many spices.</p>

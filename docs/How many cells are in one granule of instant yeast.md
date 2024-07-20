@@ -1,9 +1,10 @@
 # How many cells are in one granule of instant yeast?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/105443)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/105443)._
 
-_By: [Josh French](https://dba.stackexchange.com/u/81271)]_
-<br><hr>
+_By: [Josh French](https://cooking.stackexchange.com/u/81271)_
+<br>
+--------------------------------------------
 ### Q: How many cells are in one granule of instant yeast?
 <p>I'm purely curious and google has failed me.</p>
 

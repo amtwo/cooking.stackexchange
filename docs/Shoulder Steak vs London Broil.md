@@ -1,9 +1,10 @@
 # Shoulder Steak vs London Broil
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/115675)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/115675)._
 
-_By: [Burt](https://dba.stackexchange.com/u/89183)]_
-<br><hr>
+_By: [Burt](https://cooking.stackexchange.com/u/89183)_
+<br>
+--------------------------------------------
 ### Q: Shoulder Steak vs London Broil
 <p>I bought a piece of shoulder steak. Can I cook it like a london broil - marinating it and then broiling for around fifteen minutes?</p>
 

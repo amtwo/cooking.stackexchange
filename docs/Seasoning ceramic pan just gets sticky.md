@@ -1,9 +1,10 @@
 # Seasoning ceramic pan just gets sticky
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/121609)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/121609)._
 
-_By: [kporangehat](https://dba.stackexchange.com/u/100796)]_
-<br><hr>
+_By: [kporangehat](https://cooking.stackexchange.com/u/100796)_
+<br>
+--------------------------------------------
 ### Q: Seasoning ceramic pan just gets sticky
 <p>I have a set of Caraway ceramic pans which started out fantastic. One of them has completely lost its nonstick coating now and I’m trying to season it to regain some nonstick back.</p>
 <p>I cleaned the pan well with soap and warm water and there are no scratches or baked on food residue. I used a tiny amount of avocado oil and put a thin glaze on the pan (just barely enough to see a slight sheen on the surface, not so much that there’s any to roll around) and heated it on medium for I’d say about 20-25 minutes to try and reach the smoke point. I never saw it smoke but it did start to discolor so I took the pan off and let it cool naturally back to room temp.</p>

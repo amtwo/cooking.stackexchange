@@ -1,9 +1,10 @@
 # Is Virginia creeper safe to eat?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/107929)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/107929)._
 
-_By: [Willk](https://dba.stackexchange.com/u/53826)]_
-<br><hr>
+_By: [Willk](https://cooking.stackexchange.com/u/53826)_
+<br>
+--------------------------------------------
 ### Q: Is Virginia creeper safe to eat?
 <p>Spring and the Virginia Creeper is growing.</p>
 

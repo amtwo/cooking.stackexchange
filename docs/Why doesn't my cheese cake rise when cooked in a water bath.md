@@ -1,9 +1,10 @@
 # Why doesn't my cheese cake rise when cooked in a water bath?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103501)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103501)._
 
-_By: [Margo Silva](https://dba.stackexchange.com/u/79516)]_
-<br><hr>
+_By: [Margo Silva](https://cooking.stackexchange.com/u/79516)_
+<br>
+--------------------------------------------
 ### Q: Why doesn't my cheese cake rise when cooked in a water bath?
 <p>When I cook a cheesecake using the water bath method, the cheesecake does not rise. It stays flat.  How do I make my cheesecake rise?</p>
 

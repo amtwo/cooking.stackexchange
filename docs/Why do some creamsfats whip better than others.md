@@ -1,9 +1,10 @@
 # Why do some creams/fats whip better than others?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/100934)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/100934)._
 
-_By: [imakhlin](https://dba.stackexchange.com/u/77179)]_
-<br><hr>
+_By: [imakhlin](https://cooking.stackexchange.com/u/77179)_
+<br>
+--------------------------------------------
 ### Q: Why do some creams/fats whip better than others?
 <p><a href="https://en.wikipedia.org/wiki/Whipped_cream#Food_chemistry" rel="noreferrer">Wikipedia</a> makes whipped cream look very simple: gas bubbles are trapped in the fat and create a colloid. However, we all know that you can easily come across "whipping cream" that just won't whip even with all the necessary precautions. Meanwhile a different cream will whip up in a matter of seconds even at room temperature. This is despite both having the same fat content and ingredients.</p>
 

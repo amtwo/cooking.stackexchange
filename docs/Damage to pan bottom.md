@@ -1,9 +1,10 @@
 # Damage to pan bottom
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/108250)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/108250)._
 
-_By: [ved](https://dba.stackexchange.com/u/84253)]_
-<br><hr>
+_By: [ved](https://cooking.stackexchange.com/u/84253)_
+<br>
+--------------------------------------------
 ### Q: Damage to pan bottom
 <p>I have a non stick Tramontina frying pan. Today, in an effort to remove the brown stains on the reverse (metallic) side, I put the pan in boiling water with baking soda for 30 min. After cleaning it with a sponge, I noticed that the outer bottom metallic layer seems to have come off quite a bit (see attached picture). I was surprised as I did not think that baking soda could do this--moreover the nonstick surface seems to be undamaged. So my questions are: What happened here? And what will be the effect on cooking?<img src="https://i.sstatic.net/BsW8W.jpg" alt="enter image description here"><img src="https://i.sstatic.net/ToYsZ.jpg" alt="enter image description here"></p>
 

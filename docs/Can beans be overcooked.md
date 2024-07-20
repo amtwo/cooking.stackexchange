@@ -1,9 +1,10 @@
 # Can beans be overcooked?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/120090)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120090)._
 
-_By: [Geremia](https://dba.stackexchange.com/u/42013)]_
-<br><hr>
+_By: [Geremia](https://cooking.stackexchange.com/u/42013)_
+<br>
+--------------------------------------------
 ### Q: Can beans be overcooked?
 <p>Can beans be overcooked? Coffee beans, for example, are incredibly roasted. Falafel is baked or fried garbanzo beans. Is it possible to overcook beans, or is this good for breaking down the sugars, phytic acid that cause flatulence, indigestion of legumes?</p>
 

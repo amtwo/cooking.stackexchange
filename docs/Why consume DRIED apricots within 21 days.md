@@ -1,9 +1,10 @@
 # Why consume DRIED apricots within 21 days?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/122310)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/122310)._
 
-_By: [Sleepster](https://dba.stackexchange.com/u/9668)]_
-<br><hr>
+_By: [Sleepster](https://cooking.stackexchange.com/u/9668)_
+<br>
+--------------------------------------------
 ### Q: Why consume DRIED apricots within 21 days?
 <p>I bought a large bag of dried apricots at Costco. I was planning to enjoy them slowly over the next few months (the Best Before date is in mid 2023) but the label says: &quot;Reseal and refrigerate after opening and <strong>consume within 21 days</strong>.&quot;
 I find that weird. Dried fruits usually keep for months and months. The only clue I've got is the ingredient list mentions 2% water. Any idea? Safe to consume after 21 days? 3 month? 6 months? Thank you so much!

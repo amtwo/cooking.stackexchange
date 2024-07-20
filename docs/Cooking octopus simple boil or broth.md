@@ -1,9 +1,10 @@
 # Cooking octopus: simple boil or broth?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103269)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103269)._
 
-_By: [Gonçalo Peres](https://dba.stackexchange.com/u/56955)]_
-<br><hr>
+_By: [Gonçalo Peres](https://cooking.stackexchange.com/u/56955)_
+<br>
+--------------------------------------------
 ### Q: Cooking octopus: simple boil or broth?
 <p>I have heard about "polvo à feira" (Pulpo a la Gallega/Spannish style octopus) and I went on a search for recipes.</p>
 

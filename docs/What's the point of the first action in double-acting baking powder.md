@@ -1,9 +1,10 @@
 # What's the point of the first action in double-acting baking powder?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103636)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103636)._
 
-_By: [Sneftel](https://dba.stackexchange.com/u/58067)]_
-<br><hr>
+_By: [Sneftel](https://cooking.stackexchange.com/u/58067)_
+<br>
+--------------------------------------------
 ### Q: What's the point of the first action in double-acting baking powder?
 <p>Modern baking powder is basically always "double-acting". This makes a lot of sense compared to the older single-acting powder, since the gas formed during baking won't be removed by mechanical actions like pouring batter into a dish, and occurs when the starch is ready to form a gel, stabilizing the foam.</p>
 

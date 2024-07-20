@@ -1,9 +1,10 @@
 # How do I age ginger?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/114880)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/114880)._
 
-_By: [happybuddha](https://dba.stackexchange.com/u/17291)]_
-<br><hr>
+_By: [happybuddha](https://cooking.stackexchange.com/u/17291)_
+<br>
+--------------------------------------------
 ### Q: How do I age ginger?
 <p>For the past few months all I can find is young ginger from the grocers. I am in need of old ginger which I can't quite purchase.</p>
 <p>I have tried to leave it out in the kitchen in an open basket (no sunlight) but it went all mouldy. When I did this, the average temperatures in my (Australian) city were a high of 30C and a low of 15C.</p>

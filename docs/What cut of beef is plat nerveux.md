@@ -1,9 +1,10 @@
 # What cut of beef is "plat nerveux"?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103103)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103103)._
 
-_By: [LabGecko](https://dba.stackexchange.com/u/73438)]_
-<br><hr>
+_By: [LabGecko](https://cooking.stackexchange.com/u/73438)_
+<br>
+--------------------------------------------
 ### Q: What cut of beef is "plat nerveux"?
 <p>The cut is 'plat nerveux' and was purchased at a Parisian (French) market. It is beef, long-ish, round (like a sausage), and boneless. The meat is deeper red than most beef cuts I am used to. Deep red, but not liver or other organ color.</p>
 

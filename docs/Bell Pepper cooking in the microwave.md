@@ -1,9 +1,10 @@
 # Bell Pepper cooking in the microwave
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/120616)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/120616)._
 
-_By: [Barbara Sasson O'leary](https://dba.stackexchange.com/u/48332)]_
-<br><hr>
+_By: [Barbara Sasson O'leary](https://cooking.stackexchange.com/u/48332)_
+<br>
+--------------------------------------------
 ### Q: Bell Pepper cooking in the microwave
 <p>When I microwave sliced bell peppers, they spark like they have metal in them.
 Does the bell peppers have any metal pieces?</p>

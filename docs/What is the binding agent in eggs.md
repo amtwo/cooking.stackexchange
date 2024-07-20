@@ -1,9 +1,10 @@
 # What is the binding agent in eggs?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/103114)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/103114)._
 
-_By: [isakbob](https://dba.stackexchange.com/u/74006)]_
-<br><hr>
+_By: [isakbob](https://cooking.stackexchange.com/u/74006)_
+<br>
+--------------------------------------------
 ### Q: What is the binding agent in eggs?
 <h1>Background</h1>
 

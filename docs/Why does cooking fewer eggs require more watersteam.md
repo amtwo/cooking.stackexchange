@@ -1,9 +1,10 @@
 # Why does cooking fewer eggs require more water/steam?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/116059)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/116059)._
 
-_By: [DavidPostill](https://dba.stackexchange.com/u/51123)]_
-<br><hr>
+_By: [DavidPostill](https://cooking.stackexchange.com/u/51123)_
+<br>
+--------------------------------------------
 ### Q: Why does cooking fewer eggs require more water/steam?
 <p>I have purchased a <a href="https://www.amazon.co.uk/Nutri-Q-34360-Healthy-Poaching-Stainless/dp/B076F577M6" rel="noreferrer">Nutri-Q 34360 Healthy Eating Egg Boiler</a>:</p>
 <blockquote>

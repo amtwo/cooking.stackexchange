@@ -1,9 +1,10 @@
 # If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119286)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119286)._
 
-_By: [Paul B. Slater](https://dba.stackexchange.com/u/97025)]_
-<br><hr>
+_By: [Paul B. Slater](https://cooking.stackexchange.com/u/97025)_
+<br>
+--------------------------------------------
 ### Q: If 2 cups of Himalayan salt is used in making 60 gallons of soup, how much sodium does this contribute to a 24 oz. soup serving?
 <p>We have a local soup kitchen that provides 24 ounce containers of soup. There is no nutritional profile posted on the containers, and I'm curious as to how much of the standard (American Heart Association) daily sodium limits 1500 milligram=0.05291094 ounces (for high-blood pressure people] and (FDA?) 2300 milligram = 0.08113011 ounces (for people in general) is provided.</p>
 <p>I've been told that 2 cups of Himalayan salt are used for each 60 gallons of soup.</p>

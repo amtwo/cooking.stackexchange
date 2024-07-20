@@ -1,9 +1,10 @@
 # What is the purpose of adding baking powder to a recipe that contains yeast?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/113979)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/113979)._
 
-_By: [the real deal](https://dba.stackexchange.com/u/80467)]_
-<br><hr>
+_By: [the real deal](https://cooking.stackexchange.com/u/80467)_
+<br>
+--------------------------------------------
 ### Q: What is the purpose of adding baking powder to a recipe that contains yeast?
 <p>Example, this recipe: <a href="https://www.theglobeandmail.com/life/food-and-wine/recipes/recipe-traditional-cypriot-tahini-pies/article25201735/" rel="nofollow noreferrer">https://www.theglobeandmail.com/life/food-and-wine/recipes/recipe-traditional-cypriot-tahini-pies/article25201735/</a></p>
 <p>In addition to yeast it calls for a small amount of baking powder. What is the purpose of that?</p>

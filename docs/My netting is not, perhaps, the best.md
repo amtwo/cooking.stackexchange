@@ -1,9 +1,10 @@
 # My netting is not, perhaps, the best
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/111067)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/111067)._
 
-_By: [Fattie](https://dba.stackexchange.com/u/38062)]_
-<br><hr>
+_By: [Fattie](https://cooking.stackexchange.com/u/38062)_
+<br>
+--------------------------------------------
 ### Q: My netting is not, perhaps, the best
 <p><a href="https://i.sstatic.net/IZJXV.jpg" rel="noreferrer"><img src="https://i.sstatic.net/IZJXV.jpg" alt="enter image description here" /></a></p>
 <p>Take pity, is there any way I can be better?</p>

@@ -1,9 +1,10 @@
 # Minimum time/temp for clove-flavor infusion?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/119724)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/119724)._
 
-_By: [Christian Convey](https://dba.stackexchange.com/u/97718)]_
-<br><hr>
+_By: [Christian Convey](https://cooking.stackexchange.com/u/97718)_
+<br>
+--------------------------------------------
 ### Q: Minimum time/temp for clove-flavor infusion?
 <p>I'm tweaking a recipe for cooked eggnog. The first step is to bring a combination of milk, light cream, and cloves to a scant boil.  After that, the cloves are discarded.</p>
 <p>I want to see if I can get similar results without having to get that mixture so hot.  But I'm concerned that a lower temperature won't extract as much flavor from the cloves.</p>

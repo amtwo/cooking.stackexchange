@@ -1,9 +1,10 @@
 # Cooking pasta in water temperature range?
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/104871)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/104871)._
 
-_By: [Alfreds9](https://dba.stackexchange.com/u/80700)]_
-<br><hr>
+_By: [Alfreds9](https://cooking.stackexchange.com/u/80700)_
+<br>
+--------------------------------------------
 ### Q: Cooking pasta in water temperature range?
 <p>I'd like to know what is the temperature range in which pasta can be cooked in water.
 I'd be interested in this in order to waste less energy/heat as opposed to cooking it in rolling boiling water and then draining away water that's still over 90 C.</p>

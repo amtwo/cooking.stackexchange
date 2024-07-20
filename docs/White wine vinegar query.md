@@ -1,9 +1,10 @@
 # White wine vinegar query
 
-_This question originally asked on [The Stack Exchange Network](https://dba.stackexchange.com/q/94199)._
+_This question originally asked on [The Stack Exchange Network](https://cooking.stackexchange.com/q/94199)._
 
-_By: [user70832](https://dba.stackexchange.com/u/70832)]_
-<br><hr>
+_By: [user70832](https://cooking.stackexchange.com/u/70832)_
+<br>
+--------------------------------------------
 ### Q: White wine vinegar query
 <p>How long does white wine vinegar last if kept in a sealed bottle? Does this apply to the age of all vinegars kept in a sealed bottle?</p>
 
